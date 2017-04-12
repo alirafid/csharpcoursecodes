@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes-floatpointtypes\Datatypes-floatpointtypes\bin\Debug\Datatypes-floatpointtypes.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes-floatpointtypes\Datatypes-floatpointtypes\bin\Debug\Datatypes-floatpointtypes.exe
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes-floatpointtypes\Datatypes-floatpointtypes\bin\Debug\Datatypes-floatpointtypes.pdb
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes-floatpointtypes\Datatypes-floatpointtypes\obj\Debug\Datatypes-floatpointtypes.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes-floatpointtypes\Datatypes-floatpointtypes\obj\Debug\Datatypes-floatpointtypes.exe
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes-floatpointtypes\Datatypes-floatpointtypes\obj\Debug\Datatypes-floatpointtypes.pdb
