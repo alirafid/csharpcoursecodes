@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2017\Projects\firstvairable\firstvairable\obj\Debug\firstvairable.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\firstvairable\firstvairable\bin\Debug\firstvairable.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\firstvairable\firstvairable\bin\Debug\firstvairable.exe
+c:\users\ali\documents\visual studio 2017\Projects\firstvairable\firstvairable\bin\Debug\firstvairable.pdb
+c:\users\ali\documents\visual studio 2017\Projects\firstvairable\firstvairable\obj\Debug\firstvairable.exe
+c:\users\ali\documents\visual studio 2017\Projects\firstvairable\firstvairable\obj\Debug\firstvairable.pdb
