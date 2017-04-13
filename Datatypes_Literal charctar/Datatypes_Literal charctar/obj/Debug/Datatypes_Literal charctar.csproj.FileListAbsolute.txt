@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_Literal charctar\Datatypes_Literal charctar\bin\Debug\Datatypes_Literal charctar.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_Literal charctar\Datatypes_Literal charctar\bin\Debug\Datatypes_Literal charctar.exe
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_Literal charctar\Datatypes_Literal charctar\bin\Debug\Datatypes_Literal charctar.pdb
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_Literal charctar\Datatypes_Literal charctar\obj\Debug\Datatypes_Literal charctar.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_Literal charctar\Datatypes_Literal charctar\obj\Debug\Datatypes_Literal charctar.exe
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_Literal charctar\Datatypes_Literal charctar\obj\Debug\Datatypes_Literal charctar.pdb
