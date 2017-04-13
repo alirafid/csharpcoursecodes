@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_charstringbool\Datatypes_charstringbool\bin\Debug\Datatypes_charstringbool.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_charstringbool\Datatypes_charstringbool\bin\Debug\Datatypes_charstringbool.exe
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_charstringbool\Datatypes_charstringbool\bin\Debug\Datatypes_charstringbool.pdb
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_charstringbool\Datatypes_charstringbool\obj\Debug\Datatypes_charstringbool.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_charstringbool\Datatypes_charstringbool\obj\Debug\Datatypes_charstringbool.exe
+c:\users\ali\documents\visual studio 2017\Projects\Datatypes_charstringbool\Datatypes_charstringbool\obj\Debug\Datatypes_charstringbool.pdb
